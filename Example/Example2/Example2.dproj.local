@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/10/16 12:49:21.000.659,=D:\DelphiDefault\Unit2.pas</Transaction>
+    <Transaction>2023/10/16 13:08:39.000.697,=D:\DelphiDefault\Unit2.pas</Transaction>
+    <Transaction>2023/10/16 13:11:48.000.811,=D:\DelphiDefault\Unit2.pas</Transaction>
+    <Transaction>2023/10/16 15:33:08.000.064,=D:\DelphiDefault\Unit2.pas</Transaction>
+    <Transaction>2023/10/18 11:14:33.000.350,=D:\DelphiDefault\Unit2.pas</Transaction>
+    <Transaction>2023/10/18 11:16:06.000.470,D:\lavori_git\XMLReaderWriter\XMLReader\Example\Example2\uFormMain.pas=D:\DelphiDefault\Unit2.pas</Transaction>
+    <Transaction>2023/10/18 11:16:06.000.470,D:\lavori_git\XMLReaderWriter\XMLReader\Example\Example2\uFormMain.dfm=D:\DelphiDefault\Unit2.dfm</Transaction>
+    <Transaction>2023/10/18 11:16:19.000.138,D:\lavori_git\XMLReaderWriter\XMLReader\Example\Example2\Example2.dproj=D:\DelphiDefault\Project2.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
